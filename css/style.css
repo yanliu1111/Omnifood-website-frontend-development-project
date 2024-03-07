@@ -8,7 +8,10 @@ Medium 500 / Semi-Bold 600 / Bold 700
 
 - Line height:
 Default: 1
-small: 1.05 / paragrph default 1.6
+small: 1.05 /1.2/ paragrph default 1.6
+
+- Letter spacing:
+-  -0.5px / 0.75px
 
 --- 02 Color ---
 - Primary: #e67e22
@@ -71,14 +74,34 @@ body {
   grid-template-columns: repeat(4, 1fr);
 }
 
+.heading-primary,
+.heading-secondary {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  color: #333;
+}
+
 .heading-primary {
   font-size: 5.2rem;
-  font-weight: 700;
   line-height: 1.05;
-  color: #333;
-  letter-spacing: -0.5px;
   margin-bottom: 3.2rem;
 }
+
+.heading-secondary {
+  font-size: 4.4rem;
+  line-height: 1.2;
+  margin-bottom: 9.6rem;
+}
+.subheading {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: #cf711f;
+  text-transform: uppercase;
+  margin-bottom: 1.6rem;
+  letter-spacing: 0.75px;
+}
+
 .btn:link,
 .btn:visited {
   display: inline-block;
@@ -235,7 +258,6 @@ body {
 /**************************/
 .section-how {
   padding: 9.6rem 0;
-  background-color: orangered;
 }
 
 /* .section-how div div {
@@ -256,3 +278,7 @@ body {
 .section-how div:nth-child(4) {
   background-color: yellow;
 } */
+.step-img {
+  width: 35%;
+  /* z-index: 10; */
+}
