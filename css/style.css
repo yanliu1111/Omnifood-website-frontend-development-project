@@ -223,7 +223,7 @@
 .meal {
   box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
   border-radius: 11px;
-  overflow: hidden;
+  overflow: hidden; /* to make sure the border radius is applied to the image */
   transition: all 0.4s;
 }
 
@@ -238,7 +238,7 @@
 
 .meal-tags {
   margin-bottom: 1.2rem;
-  display: flex;
+  display: flex; /* to make sure the tags are in one line */
   gap: 0.4rem;
 }
 
@@ -291,6 +291,7 @@
 
 .meal-img {
   width: 100%;
+  height: 25rem;
 }
 
 .all-recipes {
