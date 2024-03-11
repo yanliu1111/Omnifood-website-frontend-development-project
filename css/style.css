@@ -363,7 +363,7 @@
 }
 
 .gallery-item {
-  overflow: hidden;
+  overflow: hidden; /* to make sure the border radius is applied to the image, important, hidden the overflow */
 }
 
 .gallery-item img {
@@ -373,5 +373,7 @@
 }
 
 .gallery-item img:hover {
-  transform: scale(1.1);
+  transform: scale(
+    1.1
+  ); /* 10% bigger, also there is fun transform rotate(45deg) */
 }
