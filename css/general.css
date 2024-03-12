@@ -19,9 +19,10 @@ small: 1.05 /1.2/ paragrph default 1.6
 - Shades: #cf711f /  #45260a;
 
 - Accent:
-- Greys: #555 /
- #333 /
- #6f6f6f (light grey allowed on #fdf2e9 background)
+- Greys: (brighter) #eee / #888 / #767676   (light grey allowed on #fff)
+/ #6f6f6f   (light grey allowed on #fdf2e9 background)
+ / #555 / #333 (darker)
+check the contrast ratio for accessibility: https://coolors.co/contrast-checker/
 
 --- 03 Shadows ---
   box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);

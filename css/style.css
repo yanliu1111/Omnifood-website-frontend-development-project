@@ -588,20 +588,19 @@
 .social-icon {
   height: 2.4rem;
   width: 2.4rem;
-  /* filter: brightness(100%);
-  opacity: 50%; */
 }
 
 .social-icon--twitter:hover {
   filter: brightness(100%);
   opacity: 50%;
+  transition: 0.3s;
 }
 
 .copyright {
   font-size: 1.4rem;
   line-height: 1.6;
   color: #767676;
-  margin-top: auto;
+  margin-top: auto; /* Amazing trick, about flex and column, push the3rd column content to the bottom */
 }
 
 .footer-heading {
