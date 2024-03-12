@@ -4,9 +4,9 @@
 
 This is a project from the Udemy course [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by Jonas Schmedtmann. The course is a great way to learn how to build a website from scratch using HTML5 and CSS3. The course also covers how to make the website responsive and how to use the latest features of HTML5 and CSS3.
 
-## 🛠 Very usful tools and resources
+## 🛠 Very useful tools and resources
 
-### (💖If you feel this list is helpful, please give it a star for recommendation and support 💝)
+### (📜 If you have other useful websites for design, welcome to contribue the list, thank you 💖)
 
 1. #e67e22 : tints and shades generator: https://maketintsandshades.com/
 2. ionicons: https://ionicons.com/
