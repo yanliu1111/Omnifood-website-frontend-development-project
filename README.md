@@ -6,7 +6,7 @@ This is a project from the Udemy course [Build Responsive Real World Websites wi
 
 ## 🛠 Very useful tools and resources
 
-### (📜 If you have other useful websites for design, welcome to contribue the list, thank you 💖)
+### 💖 If you have other useful websites for design, welcome to contribue the list, thank you.
 
 1. #e67e22 : tints and shades generator: https://maketintsandshades.com/
 2. ionicons: https://ionicons.com/
