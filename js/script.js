@@ -53,7 +53,7 @@ const obs = new IntersectionObserver(
     // In the viewport
     root: null,
     threshold: 0,
-    rootMargin: '-80px',
+    rootMargin: '-80px', // because the height of sticky is 8rem
   }
 );
 obs.observe(sectionHeroEl);

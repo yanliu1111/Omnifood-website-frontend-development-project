@@ -75,6 +75,9 @@
 }
 
 /* STICKY NAVIGATION */
+/* parent selector, means sticky class is parent of .header, stick is in body */
+/* so in js, change  document.querySelector (.header).classList.add('sticky')  to document.body.classList.add('sticky');
+*/
 .sticky .header {
   position: fixed;
   top: 0;
@@ -87,7 +90,7 @@
   z-index: 999;
   box-shadow: 0 1.2rem 3.2rem rgba(0, 0, 0, 0.03);
 }
-
+/* parent selector, means sticky class is parent of .seciont-hero, stick is in body */
 .sticky .section-hero {
   margin-top: 9.6rem;
 }
