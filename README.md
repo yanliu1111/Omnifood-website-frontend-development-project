@@ -19,6 +19,11 @@ This is a project from the Udemy course [Build Responsive Real World Websites wi
      - MOBILE NAVIGATION
      - BELOW 704px (Smaller tablets)
      - BELOW 544px (Phones)
+5. Sticky Navigation
+6. Browser support and fixing css flexbox gap in Safari
+7. Testing Performance with Lighthouse
+8. Image Optimization
+9. Deployment
 
 ## 🛠 Very useful tools and resources
 
@@ -59,3 +64,6 @@ This is a project from the Udemy course [Build Responsive Real World Websites wi
     for individual components: https://screelane.com <br>
     https://www.land-book.com/ <br>
     for component and pattern https://www.appsignal.com/ <br>
+12. Brower support <br>
+    Website: <br>
+    https://caniuse.com/ <br>
