@@ -48,6 +48,9 @@ html {
   /* percentage of user's browser font-size setting*/
   font-size: 62.5%; /*10px*/
   overflow-x: hidden;
+
+  /*alternative method using JS for fix all the browser issue */
+  /* scroll-behavior: smooth; */
 }
 
 body {
