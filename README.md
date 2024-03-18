@@ -12,6 +12,13 @@ This is a project from the Udemy course [Build Responsive Real World Websites wi
 4. Responsive Design and Media Queries
    - Breakpoints
    - Responding to different screen sizes (mobile, tablet, and desktop)
+   - Media queries including:
+     - BELOW 1344px (Smaller desktops)
+     - BELOW 1200px (Landscape Tablets)
+     - BELOW 944px (Tablets)
+     - MOBILE NAVIGATION
+     - BELOW 704px (Smaller tablets)
+     - BELOW 544px (Phones)
 
 ## 🛠 Very useful tools and resources
 
