@@ -53,3 +53,13 @@ This is a project from the Udemy course [Build Responsive Real World Websites wi
 Design notes:
 
 1. the actual image size, of the imae file itself should always be double of the size that is actually displayed on the screen. The high density screens aactually need two pixels of the image to display one pixel in the design, in the layout.
+
+2. Here is the result from lighthouse. <br>
+
+<img
+style="display: block;
+margin-left: auto;
+margin-right: auto;"
+src="img/lighthouse-result.jpg"
+alt="roadmap">
+</img> <br>
